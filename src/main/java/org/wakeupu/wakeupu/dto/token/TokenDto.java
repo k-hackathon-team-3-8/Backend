@@ -1,4 +1,4 @@
-package org.wakeupu.wakeupu.dto;
+package org.wakeupu.wakeupu.dto.token;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

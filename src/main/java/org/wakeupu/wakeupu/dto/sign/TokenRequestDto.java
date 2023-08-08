@@ -1,4 +1,4 @@
-package org.wakeupu.wakeupu.dto;
+package org.wakeupu.wakeupu.dto.sign;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

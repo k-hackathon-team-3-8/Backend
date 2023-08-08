@@ -13,7 +13,7 @@ import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Component;
-import org.wakeupu.wakeupu.dto.TokenDto;
+import org.wakeupu.wakeupu.dto.token.TokenDto;
 
 import java.security.Key;
 import java.util.Arrays;

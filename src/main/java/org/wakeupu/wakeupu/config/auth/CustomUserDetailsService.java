@@ -10,7 +10,8 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.wakeupu.wakeupu.Repository.MemberRepository;
-import org.wakeupu.wakeupu.entity.Member;
+import org.wakeupu.wakeupu.entity.member.Member;
+
 
 import java.util.Collections;
 

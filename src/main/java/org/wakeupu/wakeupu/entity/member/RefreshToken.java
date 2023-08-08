@@ -1,4 +1,4 @@
-package org.wakeupu.wakeupu.entity;
+package org.wakeupu.wakeupu.entity.member;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
